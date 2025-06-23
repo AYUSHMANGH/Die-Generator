@@ -88,9 +88,9 @@ public class diceRoll {
         } else if (x == 6) {
             pic = """
                      -------
-                    | o o o |
-                    | o o o |
-                    | o o o |
+                    | o   o |
+                    | o   o |
+                    | o   o |
                      -------
                      """;
         }
